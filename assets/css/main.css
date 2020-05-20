@@ -3550,8 +3550,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: #000000 !important; /* CHANGING TITLES BYRON GARCIA */
+				color: #000000 !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3605,7 +3605,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: #000000; /* HOVER ON ICONCOLOR */
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3627,7 +3627,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #000000 !important; /* HOVER ON ICONCOLOR */
 			}
 
 		#nav strong, #nav b {
@@ -3703,7 +3703,7 @@ input, select, textarea {
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #18bfef !important;
+							color: #999999 !important;
 						}
 
 		#nav ul.icons {
@@ -3947,7 +3947,7 @@ input, select, textarea {
 
 			#footer a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #000000 !important; /* Change BOTTOMCOLOR EMAIL / PHONE */
 			}
 
 		#footer strong, #footer b {
